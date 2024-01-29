@@ -3,6 +3,20 @@
   "about_url": "https://meta.discourse.org/t/mint-a-modern-theme-for-discourse/202822",
   "license_url": "https://github.com/discourse/discourse-mint-theme/blob/main/LICENSE",
   "color_schemes": {
+    "GEO BON Dark": {
+      "primary": "dddddd",
+      "secondary": "222222",
+      "tertiary": "eaa222",
+      "quaternary": "115ca2",
+      "header_background": "168d78",
+      "header_primary": "dddddd",
+      "highlight": "71aab0",
+      "danger": "9e2b25",
+      "success": "eaa222",
+      "love": "9e2b25",
+      "selected": "2c2c2c",
+      "hover": "313131"
+    },
     "mint-light": {
       "primary": "454545",
       "secondary": "F6FBFC",
