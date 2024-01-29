@@ -34,9 +34,10 @@ body:not(.navigation-categories):not(.navigation-topics) #main-outlet {
   display: block;
   position: fixed;
   z-index: -1;
-  width: 300px;
-  height: 300px;
+  width: 512px;
+  height: 512px;
   background-image: url($geobon-earth);
+  opacity: 0.2;
   left: 70px;
   top: 350px;
   transform-origin: 0 100%;
