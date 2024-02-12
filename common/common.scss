@@ -389,3 +389,14 @@ summary.select-kit-header.single-select-header.dropdown-select-box-header {
 {
     display: none;
 }
+
+// Make category-header style fit with rest of theme
+.category-title-header {
+  border-radius: var(--mint-border-radius);
+  margin-bottom: 1em;
+}
+
+div[class^=category-title-header] .category-title-contents {
+  padding: 20px !important;
+}
+// ---------------------- category-header
